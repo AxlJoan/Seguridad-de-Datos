@@ -7,11 +7,11 @@ Se explicó aspectos a mejorar con relación a la planeación didáctica, y la p
 
 ## CIA Triad
 Durante la sesión analizamos los pilares de la seguridad, los cuales vimos mediante una imagen y platicamos un poco acerca de ellos.
-- Disponibilidad
+- **Disponibilidad**
 Los datos deben de estar disponibles en todo momento cada que necesites acceder a ellos
-- Confidencialidad
+- **Confidencialidad**
 Uno debe estar seguro de que los datos no los puede ver cualquier persona, solo aquellas con autorización
-- Integridad
+- **Integridad**
 Debemos estar seguros de que los datos no han sido manipulados a la hora de pedirlos
 
 La vurnerabilidad de cualquiera de estos pilares indica que los datos no son seguros.
@@ -19,11 +19,11 @@ La vurnerabilidad de cualquiera de estos pilares indica que los datos no son seg
 ## Usability Triangle
 Seguido de CIA Triad, platicamos igual del concepto Usability Triangle, un esquema que nos sirve como guía a la hora de trabajar en un software por ejemplo. 
 Se divide en la Interfaz Gráfica de Usuario, la seguridad del sitio y su funcionabilidad, el esquema nos dice, que debemos encontrar un equilibrio entre estas 3 para así tener un trabajo impecable.
-- GUI
+- **GUI**
 Si tu software está enfocado más a que tenga una Interfaz amigable, probablemente la integridad de los datos del sitio no sea tan segura, y carezca de funciones.
-- Seguridad
+- **Seguridad**
 Por otro lado si el sitio tiene una seguridad buena, puede que la interfaz no sea tan amigable, y en cuestión de funciones igual sea limitado para evitar vulnerabilidades.
-- Funcionalidad
+- **Funcionalidad**
 Finalmente si tiene muchas funcionalidades, puede ser más vulnerable a ataques y carecer de una interfaz amigable.
 
 ## Tipos de Hackers
