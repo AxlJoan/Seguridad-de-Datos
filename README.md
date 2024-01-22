@@ -42,11 +42,8 @@ Entre el mar de términos y conceptos básicos de Ciberseguridad que una persona
 
 Es fundamental conocer el significado que estas palabras tienen con el fin de que un hacker ético, o aquellos conocidos como hackers de sombrero blanco; puedan desarrollar políticas de seguridad y protocolos de seguridad informática que no solo protejan la información que se está manejando de ser atacada por piratas informáticos, sino al usuario a quien le pertenecen estos datos o que busca hacer un uso ético (hacking ético) de los mismos.
 
-- **Confidencialidad (Confidentiality)**
-
-Para comenzar, la información sensible necesita estar protegida por sistemas de seguridad vigentes que empleen las mejores medidas de seguridad en el mercado. Este concepto está enfocado en restringir el acceso de hackers, espías o personas no autorizadas; cualquier individuo que no tenga los permisos necesarios para tener ciertos datos en sus manos.
-
-También, la confidencialidad se preocupa por la creación de contraseñas fuertes y la discreción entre involucrados para no compartir información importante o que no les corresponde. Entre las distintas herramientas de protección de datos que aseguran que estas personas no obtendrán la información de manera ilícita se encuentran: two-factor authentication, cifrado y clasificación de datos, biometría de identidad y tokens de seguridad.
+- **Confidencialidad (Confidentiality):** Para comenzar, la información sensible necesita estar protegida por sistemas de seguridad vigentes que empleen las mejores medidas de seguridad en el mercado. Este concepto está enfocado en restringir el acceso de hackers, espías o personas no autorizadas; cualquier individuo que no tenga los permisos necesarios para tener ciertos datos en sus manos.
+  También, la confidencialidad se preocupa por la creación de contraseñas fuertes y la discreción entre involucrados para no compartir información importante o que no les corresponde. Entre las distintas herramientas de protección de datos que aseguran que estas personas no obtendrán la información de manera ilícita se encuentran: two-factor authentication, cifrado y clasificación de datos, biometría de identidad y tokens de seguridad.
 
 
 
