@@ -211,3 +211,69 @@ AWS Single Sign-On (AWS SSO)
 
 Amazon Cognito: Cuentas federadas
 
+## Arquitectura de 3 capas
+- Capa de presentación
+- Capa logica de negocio
+- Capa de almacen de datos
+
+## VPC security features
+- Security groups O Networks ACLs O Subnets
+- Route labels
+
+# 19 de marzo 2024
+ESP32 - Deauth (desconectar gente
+conectada a la red)
+WIPS - Wireless Intruction Prevention
+System
+ESP32 - wifi penetration tool / risinek
+Hackaday.io
+ 
+## AWS Load Balancer:
+Tecnología que se utiliza para equilibrar las cargas de trabajo de un servicio en diferentes slaves o workers/nodos
+
+## ELB (Elastic Load Balancing)
+-	Distributes incoming aplication traffic
+- Supports high availability
+- Performs health checks on instances O Provides the following:
+-	Aplication load balancer
+-	Network load balancer
+-Classic load balancer
+
+## Data protection in ELB
+- Single point of contact
+
+
+# Vacaciones
+
+ 
+Microsoft Windows Desktop - CIS
+Benchmark.
+Realizar CIS Benchmark
+
+Para el viernes
+Investigar Tuneles de SSH y Port Forwarding iximiuz.com/en/posts/ssh-tunnels/
+
+# Parcial 3
+## Clase 1
+### Metaesploitable 2 - Un linux ubuntu con vulnerabilidades
+
+msfadmin 
+netstat -tlpn
+
+nmap -T4 -F 192.168.32.116 
+nmap -T4 -sV - F 192.168.32.116
+
+netstat -tlpn | grep 6200
+ 
+ps axu
+ss 
+ISOf
+
+En shell
+ncat	dirección ip	puerto (6200)
+
+shodan
+
+Demo exploitear una vulnerabilidad del
+metaesploiteable
+
