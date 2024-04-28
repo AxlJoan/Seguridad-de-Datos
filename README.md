@@ -74,4 +74,140 @@ Cualquier cosa que tenga potencial para causar daño. Hay varias amenazas dispon
 ### Impacto
 El impacto es, la diferencia entre las estimaciones del estado de seguridad del activo antes y después de materializar las amenazas.
 
+# 20/02/2024
+## AWS
+- EC2
+- S3
+- EKS
+- Dynamo
+- Lambda
+- RDS
+  
+## Securuty 
+- Cloudwatch
+- Cloudtrail
+- VPC flowlogs
+- WAF
+- Shield
+- Guardduty
+- Macie
+- IAM
+- Config
+- System manager
+- Inspector
+
+Cada que creemos un usuario debe estar ligado a una persona
+
+Siempre debe haber esa relación credencial-persona fisica
+
+WAF - Web Aplication Firewall
+AWS Shield - Te proteje de ataques ddos
+
+Elegir un servicio y presentarlo 27/02/2024
+AWS Network Firewall
+---------------------------------
+Escalabilidad
+Elasticidad
+
+Modelos de servicio en la nube: 
+- IaaS
+- PaaS
+- SaaS
+
+## Pizza as a Service
+- Tradition on-premises
+- Infrastructure as a service
+- Containers as a Service
+- Platform as a Service
+- Function as a Service
+- Software as a Service 
+
+- Configuracion
+- Functions
+- Scaling
+- Runtime
+- OS
+- Virtualisation
+- Hardware
+
+## Modelos de implementación de informática en la nube
+- Nube
+- Hibrido
+- Nube privada
+
+Adquirir escala mundial en cuestion de minutos
+
+Principio de diseño de seguridad.
+## Principio del menor privilegio
+- Grant access as needed
+- Enforce separation of duties
+- Avoid long-term credential
+
+## Pemitir traceability
+- Monitor actions and changes
+- Use logs and metrics
+- Audit your cloud resources
+
+## Asegurar todas las capas
+- Use a defense in depth approach
+- Use different AWS services
+
+## Automatizar la seguridad
+- Automate routine security task with API
+- Implement infrastructure as code
+
+## Protect data in transit and data at rest
+- Use encryption and access controls
+- Classify your data with tags
+- Use VPN and TLS connections
+
+## Preparate para eventos de seguridad
+- Mitigate the impact of security incidents
+- Create processess to isolate incidents and restore operations
+
+## Minimiza la superficie de ataque
+- Be ready to scale and absorb the attack
+- Safeguard exposed reosurces
+
+La responsabilidad del cliente es la seguridad en la nube, y la responsabilidad de aws es la seguridad de la nube.
+
+## Customer responsability examples:
+- Guest os configuration 
+- Aplication-level security 
+
+5 nueves 
+Tiene 99.999% de no fallar
+
+SLA: Service Level Agreement
+AWS Cloud security: Objetives
+Controllability - AWS IAM (Identity and Access Management)
+Modelo de responsabilidad compartida:
+La responsabilidad del cliente es la seguridad en la nube, y la responsabilidad de aws es la seguridad de la nube.
+
+## IAM otorga:
+- Securely shares and controls individual and group access to your AWS resources
+- Integrates with any others AWS services
+- Supports federated identity management (poder acceder con tu cuenta de google por ejemplo)
+- Supports granular permissions (Permisos especificos)
+- Supports multi-factots authentication (MFA)
+- Provides identity information for assurance
+
+## Que provee IAM
+- Autentificación 
+- Autorización 
+
+## Terminología IAM
+- IAM entity
+- IAM identity
+- IAM resource
+- Principal
+
+MFA: Añade una capa extra de seguridad on top de tu usuario y contraseña
+
+Identity-based policies
+Recourse-based policies
+
+AWS Single Sign-On (AWS SSO)
+
+Amazon Cognito: Cuentas federadas
 
